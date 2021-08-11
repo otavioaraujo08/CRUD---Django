@@ -1,7 +1,13 @@
 # CRUD---Django
-Projeto Django com metodologias de banco de dados.
+Projeto Django com Metodologia CRUD sobre banco de dados:
+
+ - Post
+ 
+ - Request
+ - Delete
+
 <h2>O que ele faz ?</h2>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTc1MTUxMCwtMTM0NTQwMzczNl19
+eyJoaXN0b3J5IjpbNzE2Mjk2NDk2LC0xMzQ1NDAzNzM2XX0=
 -->
