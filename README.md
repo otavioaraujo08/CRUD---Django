@@ -2,12 +2,13 @@
 Projeto Django com Metodologia CRUD sobre banco de dados:
 
  - Post
- 
+ ![enter image description here](https://drive.google.com/file/d/1WGndjS8IP8p2LPEvevVqQ5JYWndkWnHz/view?usp=sharing)
  - Request
- - Delete
+ 
 
 <h2>O que ele faz ?</h2>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2Mjk2NDk2LC0xMzQ1NDAzNzM2XX0=
+eyJoaXN0b3J5IjpbMjEyODQ3MzAxLDcxNjI5NjQ5NiwtMTM0NT
+QwMzczNl19
 -->
